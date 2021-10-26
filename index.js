@@ -1,1 +1,1 @@
-console.log("test post install husky");
+console.log("test post install husky without adding it");
